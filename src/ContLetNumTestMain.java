@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-//Teste do Codigo prinpal
+//Teste do Codigo principal
 class ContLetNumTestMain {
 	
 	//Teste de veracidade  se "cinco" retorna 5 letras
