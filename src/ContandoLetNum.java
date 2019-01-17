@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map; 
 
+//Classe que mostra a evolução do código
 public class ContandoLetNum extends Valores{
 
 

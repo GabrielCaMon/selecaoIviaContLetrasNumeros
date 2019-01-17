@@ -1,9 +1,10 @@
 import java.util.HashMap;
 import java.util.Map; 
 
+//Codigo Principal  
 public class ContandoLetNumMain extends Valores{
 
-
+	
 		public ContandoLetNumMain() {
 			super(mapNum);
 				}

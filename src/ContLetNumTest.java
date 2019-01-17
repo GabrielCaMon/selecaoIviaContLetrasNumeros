@@ -2,6 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+//classe que mostra os testes da evoluções dos códigos
 class ContLetNumTest {
 
 	//Teste de veracidade se o dois tem quatro letras
